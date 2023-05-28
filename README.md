@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oops, this is still in development. I'll let you know when you can install it.
 
 <!--
 **ClothClient/ClothClient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
